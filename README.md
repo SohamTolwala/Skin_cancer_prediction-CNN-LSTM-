@@ -21,4 +21,4 @@ Steps:
 14. Prediction on the validation set.
 15. MODEL2 - Building a CNN+LSTM model. The model2 is a sequential neural network architecture consisting of multiple convolutional layers with batch normalization and max pooling, followed by a combination of       LSTM and dense layers.
 16. Plotting the training process over the epochs of model.
-17. Evaluation and Prediction of model2. 
+17. Evaluation and Prediction on model2. 
