@@ -1,4 +1,4 @@
-# Skin_cancer_prediction-CNN-LSTM-
+# Skin_cancer_prediction-CNN+LSTM
 
 The dataset is a large collection of multi-source dermatoscopic images of pigmented lesions.
 
